@@ -1,0 +1,134 @@
+{
+	"State.8456f26a-e6fc-466a-a998-64300b882536": {
+		"name": "California",
+		"created_at": "2024-05-05T21:11:22.142009",
+		"updated_at": "2024-05-05T21:11:22.142197",
+		"id": "8456f26a-e6fc-466a-a998-64300b882536",
+		"__class__": "State"
+	},
+	"State.7f2e2565-e386-4339-9300-660e0ba1cb55": {
+		"name": "California",
+		"created_at": "2024-05-05T21:11:42.854319",
+		"updated_at": "2024-05-05T21:11:42.854366",
+		"id": "7f2e2565-e386-4339-9300-660e0ba1cb55",
+		"__class__": "State"
+	},
+	"State.3d4f00ad-df06-4194-8867-dd12bfdc9a2b": {
+		"name": "Californiaxx",
+		"created_at": "2024-05-05T21:11:45.114173",
+		"updated_at": "2024-05-05T21:11:45.114220",
+		"id": "3d4f00ad-df06-4194-8867-dd12bfdc9a2b",
+		"__class__": "State"
+	},
+	"State.9b9dce1b-c602-4990-b224-c75f10361226": {
+		"name": "CaliforniaxPPx",
+		"created_at": "2024-05-05T21:11:48.578597",
+		"updated_at": "2024-05-05T21:11:48.578681",
+		"id": "9b9dce1b-c602-4990-b224-c75f10361226",
+		"__class__": "State"
+	},
+	"State.b521ba5d-6348-45b1-a3bd-38209f5a5975": {
+		"name": "CaliforniaxPPx",
+		"created_at": "2024-05-05T21:11:49.606876",
+		"updated_at": "2024-05-05T21:11:49.606963",
+		"id": "b521ba5d-6348-45b1-a3bd-38209f5a5975",
+		"__class__": "State"
+	},
+	"State.dcc350d0-9298-44a9-be02-9cc6175bd774": {
+		"name": "HEREEE",
+		"created_at": "2024-05-05T21:11:55.574196",
+		"updated_at": "2024-05-05T21:11:55.574305",
+		"id": "dcc350d0-9298-44a9-be02-9cc6175bd774",
+		"__class__": "State"
+	},
+	"City.f5f111ed-6247-4997-9ddb-1fd613e2ced3": {
+		"name": "Alexandria",
+		"created_at": "2024-05-05T21:14:28.495510",
+		"updated_at": "2024-05-05T21:14:28.495562",
+		"id": "f5f111ed-6247-4997-9ddb-1fd613e2ced3",
+		"state_id": "dcc350d0-9298-44a9-be02-9cc6175bd774",
+		"__class__": "City"
+	},
+	"City.91a774a7-821b-4a8c-a3d9-c6161e56f517": {
+		"name": "AlexandriaAA",
+		"created_at": "2024-05-05T21:14:32.073520",
+		"updated_at": "2024-05-05T21:14:32.073567",
+		"id": "91a774a7-821b-4a8c-a3d9-c6161e56f517",
+		"state_id": "dcc350d0-9298-44a9-be02-9cc6175bd774",
+		"__class__": "City"
+	},
+	"City.b92b3fe3-01af-4e38-829c-25ad99911a67": {
+		"name": "AlexandriaCCXSSAA",
+		"created_at": "2024-05-05T21:14:35.076310",
+		"updated_at": "2024-05-05T21:14:35.076357",
+		"id": "b92b3fe3-01af-4e38-829c-25ad99911a67",
+		"state_id": "dcc350d0-9298-44a9-be02-9cc6175bd774",
+		"__class__": "City"
+	},
+	"Amenity.291a121b-f2b4-49f7-8001-55b3fc0dee3f": {
+		"name": "AlexandriaCCXSSAAdwds",
+		"created_at": "2024-05-05T21:15:38.192897",
+		"updated_at": "2024-05-05T21:15:38.192969",
+		"id": "291a121b-f2b4-49f7-8001-55b3fc0dee3f",
+		"place_id": "5c698c23-33ff-44e7-a3a6-19a557d0b046",
+		"__class__": "Amenity"
+	},
+	"Amenity.12d09687-d8e8-4729-a407-1056643f889b": {
+		"name": "AlexandrCCDFViaCCXSSAAdwds",
+		"created_at": "2024-05-05T21:15:46.648091",
+		"updated_at": "2024-05-05T21:15:46.648139",
+		"place_id": "5c698c23-33ff-44e7-a3a6-19a557d0b046",
+		"id": "12d09687-d8e8-4729-a407-1056643f889b",
+		"__class__": "Amenity"
+	},
+	"Amenity.83ea0c78-6bf9-4930-a23e-2abd06c97705": {
+		"name": "AlexandrCCDFViaCCXcscscdSSAAdwds",
+		"created_at": "2024-05-05T21:15:50.516658",
+		"updated_at": "2024-05-05T21:15:50.516680",
+		"place_id": "5c698c23-33ff-44e7-a3a6-19a557d0b046",
+		"id": "83ea0c78-6bf9-4930-a23e-2abd06c97705",
+		"__class__": "Amenity"
+	},
+	"User.980e211a-28d9-45be-9c5d-43a4a68163b3": {
+		"email": "me@meee",
+		"password": "16d71534a20146fd31f8e625ff331837",
+        "first_name": "XD",
+        "last_name": "Alooo",
+		"created_at": "2024-05-05T21:24:41.712058",
+		"updated_at": "2024-05-05T21:24:41.712123",
+		"id": "980e211a-28d9-45be-9c5d-43a4a68163b3",
+		"__class__": "User"
+	},
+	"Place.5c698c23-33ff-44e7-a3a6-19a557d0b046": {
+		"name": "AlexandrCCDFViaCCXcscscdSSAAdwds",
+        "price_by_night": "123",
+        "max_guest": "4",
+        "number_rooms": "5",
+        "number_bathrooms": "5",
+        "description": "Just a place lol",
+		"user_id": "980e211a-28d9-45be-9c5d-43a4a68163b3",
+		"city_id": "f5f111ed-6247-4997-9ddb-1fd613e2ced3",
+        "first_name": "XD",
+        "last_name": "Alooo",
+		"created_at": "2024-05-05T21:24:58.812704",
+		"updated_at": "2024-05-05T21:24:58.812755",
+		"id": "5c698c23-33ff-44e7-a3a6-19a557d0b046",
+		"__class__": "Place"
+	},
+    "Place.5c698c23-33fsc-44e7-a3a6-19a557d0b046": {
+		"name": "MIIhomie",
+        "price_by_night": "2000",
+        "max_guest": "40",
+        "number_rooms": "45",
+        "number_bathrooms": "55",
+        "description": "ForHomies",
+		"user_id": "980e211a-28d9-45be-9c5d-43a4a68163b3",
+		"city_id": "f5f111ed-6247-4997-9ddb-1fd613e2ced3",
+        "first_name": "XD",
+        "last_name": "Alooo",
+		"created_at": "2024-05-05T21:24:58.812704",
+		"updated_at": "2024-05-05T21:24:58.812755",
+		"id": "5c698c23-33fsc-44e7-a3a6-19a557d0b046",
+		"__class__": "Place"
+	}
+}
